@@ -1,5 +1,5 @@
 import jwt from "jsonwebtoken"
-import UserToken from "../models/UserToken"
+import UserToken from "../models/UserToken.js"
 
 
 const verifyRefreshToken = (refreshToken) => {

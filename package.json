@@ -1,9 +1,8 @@
 {
+  "type": "module",
   "name": "refreshtokenauth",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
@@ -23,5 +22,14 @@
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Billal-Hossen/node-refreshTokenAuth.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Billal-Hossen/node-refreshTokenAuth/issues"
+  },
+  "homepage": "https://github.com/Billal-Hossen/node-refreshTokenAuth#readme",
+  "description": ""
 }
